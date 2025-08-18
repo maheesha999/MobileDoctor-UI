@@ -8,4 +8,4 @@ appointment scheduling, and a comprehensive library of medical resources, all at
 Embrace the future of healthcare with Mobile doctor and have expert medical advice right in your 
 pocket, wherever you are.
 
-Figma Link: https://www.figma.com/design/y4pqyuI2DVyatpmjgZWxCI/figma-mobile-design?nodeid=107-221&t=3DTzzMlGgS4sg7lL-1
+Figma Link: https://www.figma.com/design/y4pqyuI2DVyatpmjgZWxCI/figma-mobile-design?node-id=1113-2605&p=f&t=ybbsSYh8M97uzOcC-0
