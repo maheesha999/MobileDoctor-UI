@@ -1,6 +1,6 @@
-# 🏥 MediLink – Doctor Channeling App UI/UX Design
+# 🏥 Mobile Doctor – Doctor Channeling App UI/UX Design
 
-**MediLink** is a clean, modern, and intuitive mobile UI/UX design project for a doctor channeling app, built using **Figma**.  
+**MObileDoctor** is a clean, modern, and intuitive mobile UI/UX design project for a doctor channeling app, built using **Figma**.  
 It provides a seamless experience for patients to find doctors, schedule appointments, make payments, and even join virtual consultations.  
 
 The design blends healthcare professionalism with user-friendly aesthetics, using a calming blue palette to establish **trust, care, and reliability**.  
@@ -9,7 +9,7 @@ Every screen is carefully crafted to guide users smoothly through their healthca
 ---
 
 ## 🎯 Project Overview
-The goal of **MediLink** is to make booking and attending doctor appointments as simple and stress-free as possible.  
+The goal of **MObileDoctor** is to make booking and attending doctor appointments as simple and stress-free as possible.  
 Designed for patients of all ages, the app provides quick access to healthcare professionals while keeping the experience clean, accessible, and reassuring.  
 
 ### Core Objectives:
@@ -88,7 +88,7 @@ Suggested preview grid:
 ---
 
 ## ✅ Summary
-**MediLink** is designed to bring **ease, trust, and professionalism** to the digital healthcare experience.  
+**MObileDoctor** is designed to bring **ease, trust, and professionalism** to the digital healthcare experience.  
 By combining a **calming blue palette**, clean typography, and intuitive flows, the app ensures patients can confidently connect with doctors anytime, anywhere.  
 
 ---
