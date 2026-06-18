@@ -95,5 +95,4 @@ By combining a **calming blue palette**, clean typography, and intuitive flows, 
 
 ---
 
-
 Figma Link: https://www.figma.com/design/y4pqyuI2DVyatpmjgZWxCI/figma-mobile-design?node-id=1113-2605&p=f&t=ybbsSYh8M97uzOcC-0
