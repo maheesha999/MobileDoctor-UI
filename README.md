@@ -85,6 +85,8 @@ This project was built in **Figma**, using modern design practices:
 Suggested preview grid:  
 **Logo | Onboarding | Home | Top Doctors | Doctor Details | Confirm Booking | Payment | Profile | Meeting Screen**  
 
+![UI Screenshot](https://github.com/maheesha999/MobileDoctor-UI/blob/main/mpng.png)
+
 ---
 
 ## ✅ Summary
